@@ -1,8 +1,28 @@
-Eu criei um readme para o seu projeto "ConstruCasa", que é um site que oferece serviços de construção civil. O readme contém as seguintes seções:
-
-# ConstruCasa
-
+<div align="center">
+  <a href="https://github.com/willianifms/ConstruCasa">
+    <h1>ConstruCasa</h1>
+  </a>
+  <br />
+  <p align=" justify" >
 ConstruCasa é um site que oferece serviços de construção civil, como reformas, pinturas, instalações elétricas e hidráulicas, entre outros. O site permite que os clientes solicitem orçamentos, vejam o portfólio de obras realizadas e entrem em contato com a equipe da ConstruCasa.
+    <br />
+    <br />
+    </p>
+   <div align="center">
+    <a href="https://willianifms.github.io/ConstruCasa">Acesse Agora</a>
+   </div>
+</div>
+
+<img src="/images/jogo.png" alt="img/construcasaum.png">
+
+<img src="/images/lighthouse.png" alt="img/construcasadois.png">
+
+
+<img src="/images/jogo.png" alt="img/construcasatres.png">
+
+<img src="/images/lighthouse.png" alt="img/construcasaquatro.png">
+
+
 
 ## Tecnologias utilizadas
 
@@ -63,10 +83,6 @@ git push origin nome_da_sua_branch
 
 - Abra um pull request no repositório original, solicitando a incorporação das suas alterações.
 
-## Licença
-
-O projeto está sob a licença MIT. Veja o arquivo [LICENSE] para mais detalhes.
-
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou feedback sobre o projeto, entre em contato com o autor pelo e-mail [willianifms@gmail.com](mailto:willianifms@gmail.com) ou pelo [LinkedIn].
+Se você tiver alguma dúvida, sugestão ou feedback sobre o projeto, entre em contato com o autor pelo e-mail [williancardoso00004@gmail.com](mailto:williancardoso00004@gmail.com) ou pelo LinkedIn [https://www.linkedin.com/in/willian-cardoso-40a308253/].
