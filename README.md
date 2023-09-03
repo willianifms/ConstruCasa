@@ -13,14 +13,14 @@ ConstruCasa é um site que oferece serviços de construção civil, como reforma
    </div>
 </div>
 
-<img src="/images/jogo.png" alt="img/construcasaum.png">
+<img src="/img/construcasaum.png" alt="img/construcasaum.png">
 
-<img src="/images/lighthouse.png" alt="img/construcasadois.png">
+<img src="/img/construcasadois.png" alt="img/construcasadois.png">
 
 
-<img src="/images/jogo.png" alt="img/construcasatres.png">
+<img src="/img/construcasatres.png" alt="img/construcasatres.png">
 
-<img src="/images/lighthouse.png" alt="img/construcasaquatro.png">
+<img src="/img/construcasaquatro.png" alt="img/construcasaquatro.png">
 
 
 
