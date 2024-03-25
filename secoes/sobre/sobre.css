@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.main-content {
+  padding: 20px;
+}
+
+.main-content article {
+  margin-bottom: 30px;
+}
+
+aside {
+  background-color: #f2f2f2;
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.ad {
+  margin-bottom: 20px;
+}
+
+.ad img {
+  width: 100%;
+}
+
+
+main{
+  margin-top: 15%;
+}
