@@ -147,7 +147,7 @@ border: solid transparent 1px;
 }
 
 .logo img{
-  max-width: 75%;
+  max-width: 60%;
 }
 span{
 	color: #000000;
@@ -381,7 +381,7 @@ padding-left: 4em;
 }
 
 img {
-  max-width: 100%;
+  max-width: 60%;
   display: block;
 }
 .thumbnail {
