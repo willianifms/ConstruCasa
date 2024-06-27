@@ -283,7 +283,7 @@ footer{
   grid-template-columns: auto auto auto;
 }
 
-.atu-card article{
+.atu-card div{
   margin-top: 2%;
 }
 
@@ -433,16 +433,14 @@ img {
   grid-template-columns: auto auto auto;
 }
 
-.ft{
-  
-}
+
 
 .card .image  img{
   min-height: 18em;
   max-height: 18em;
 }
 
-.g article .card img{
+.g div .card img{
   min-height: 16em;
   max-height: 16em;
 }
