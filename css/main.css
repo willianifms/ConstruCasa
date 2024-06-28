@@ -2,13 +2,23 @@
 body {
   margin: 0;
   font-family: 'Oswald', sans-serif;
-  background-color: #f4f4f4;
+  background-color: var(--subWite);
+}
+
+:root{
+  
+  --white:#fff;
+  --subWhite:#f4f4f4;
+  --primaryGray:#333;
+  --subGray:#222;
+  --grayPastel:#a8a8a8;
+
 }
 /*Começa menu */
 
 .header {
 border: solid transparent 1px;
-  background-color: #fff;
+  background-color: var(--white);
   box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
 
   width: 100%;
@@ -20,20 +30,20 @@ border: solid transparent 1px;
   padding: 0;
   list-style: none;
   overflow: hidden;
-  background-color: #f4f4f4;
+  background-color: var(--subWite);
 }
 
 .header li a {
-  color:  #222;
+  color:  var(--subGray);
   display: block;
   padding: 20px 20px;
-  border-right: 1px solid #f4f4f4;
+  border-right: 1px solid var(--subWite);
   text-decoration: none;
 }
 
 .header li a:hover,
 .header .menu-btn:hover {
-  background-color: #fff;
+  background-color: var(--white);
 }
 
 .header .logo {
@@ -48,7 +58,7 @@ border: solid transparent 1px;
 /* menu */
 
 .header .menu {
- margin-top: 4%;
+  margin-top: 4%;
   clear: both;
   max-height: 0;
   transition: max-height .2s ease-out;
@@ -66,7 +76,7 @@ border: solid transparent 1px;
 }
 
 .header .menu-icon .navicon {
-  background: #333;
+  background: var(--primaryGray);
   display: block;
   height: 2px;
   position: relative;
@@ -76,7 +86,7 @@ border: solid transparent 1px;
 
 .header .menu-icon .navicon:before,
 .header .menu-icon .navicon:after {
-  background: #333;
+  background: var(--primaryGray);
   content: '';
   display: block;
   height: 100%;
@@ -175,7 +185,7 @@ footer{
 }
 
 footer{
-  background-color: #a8a8a8;
+  background-color: var(--grayPastel);
 }
 
 .banner{
@@ -216,11 +226,11 @@ footer{
 
 .cotação button{
 
-  background-color: #222;
+  background-color: var(--subGray);
   border-radius: 4px;
   border-style: none;
   box-sizing: border-box;
-  color: #fff;
+  color: var(--white);
   cursor: pointer;
   display: inline-block;
   font-family: "Farfetch Basis","Helvetica Neue",Arial,sans-serif;
@@ -304,11 +314,11 @@ footer{
 
 .btnft button{
 
-  background-color: #222;
+  background-color: var(--subGray);
   border-radius: 4px;
   border-style: none;
   box-sizing: border-box;
-  color: #fff;
+  color: var(--white);
   cursor: pointer;
   display: inline-block;
   font-family: "Farfetch Basis","Helvetica Neue",Arial,sans-serif;

@@ -1,24 +1,33 @@
+:root{
+
+  --subWhite:#f4f4f4;
+  --grayDD:#ddd;
+  --ofertaGray:#57ff7b;
+
+}
+
 table {
   margin-top: 3%;
   width: 100%;
   border-collapse: collapse;
 }
+
 th, td {
   padding: 10px;
   text-align: left;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid var(--grayDD);
 }
 th {
-  background-color: #f2f2f2;
+  background-color: var(--subWhite);
 }
 .promo {
-  background-color: #57ff7b;
+  background-color: var(--ofertaGray);
 }
 h1{
   text-align: center;
   text-transform: uppercase;
 }
 
-div{
+.title{
   margin-top:  25%;
 }

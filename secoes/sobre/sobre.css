@@ -4,7 +4,11 @@ body {
   padding: 0;
 }
 
+:root{
 
+  --subWhite:#f4f4f4;
+
+}
 
 .main-content {
   padding: 20px;
@@ -15,7 +19,7 @@ body {
 }
 
 aside {
-  background-color: #f2f2f2;
+  background-color: var(--subWhite);
   padding: 20px;
   display: flex;
   justify-content: space-evenly;
